@@ -1,0 +1,244 @@
+La timpul 0 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 1 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 2 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 3 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 4 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 5 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 6 avem: 
+Lista de clienti in asteptare este: (2,7,2) (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 7 avem: 
+Lista de clienti in asteptare este: (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este: (2,7,2) 
+Coada 2 este libera 
+La timpul 8 avem: 
+Lista de clienti in asteptare este: (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este: (2,7,1) 
+Coada 2 este libera 
+La timpul 9 avem: 
+Lista de clienti in asteptare este: (4,10,2) (1,15,3) (3,16,2) 
+Coada 1 este: (2,7,0) 
+Coada 2 este libera 
+La timpul 10 avem: 
+Lista de clienti in asteptare este: (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este: (4,10,2) 
+La timpul 11 avem: 
+Lista de clienti in asteptare este: (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este: (4,10,1) 
+La timpul 12 avem: 
+Lista de clienti in asteptare este: (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este: (4,10,0) 
+La timpul 13 avem: 
+Lista de clienti in asteptare este: (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 14 avem: 
+Lista de clienti in asteptare este: (1,15,3) (3,16,2) 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 15 avem: 
+Lista de clienti in asteptare este: (3,16,2) 
+Coada 1 este: (1,15,2) 
+Coada 2 este libera 
+La timpul 16 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este: (1,15,1) 
+Coada 2 este: (3,16,1) 
+La timpul 17 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este: (1,15,0) 
+Coada 2 este: (3,16,0) 
+La timpul 18 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 19 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 20 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 21 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 22 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 23 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 24 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 25 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 26 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 27 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 28 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 29 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 30 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 31 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 32 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 33 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 34 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 35 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 36 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 37 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 38 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 39 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 40 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 41 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 42 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 43 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 44 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 45 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 46 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 47 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 48 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 49 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 50 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 51 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 52 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 53 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 54 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 55 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 56 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 57 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 58 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 59 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 
+La timpul 60 avem: 
+Lista de clienti in asteptare este: 
+Coada 1 este libera 
+Coada 2 este libera 

@@ -1,0 +1,8 @@
+Order number 0
+The id of the Client is 7
+----------------
+The id of the Product is 3
+----------------
+2 x 10
+----------------
+TOTAL is 20
