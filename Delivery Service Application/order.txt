@@ -1,0 +1,10 @@
+Order number: 9
+Client's id: 3
+Time: 2022-06-18T23:04:53.535435500
+----------------
+The containing of the order: 
+Cauliflower-Leek Purée 
+Red and Green Tomato Salsa 
+Coriander-Herb Spice Rub 
+----------------
+TOTAL is 102.0
