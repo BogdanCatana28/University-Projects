@@ -1,0 +1,41 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      POSTGRES_DATABASE: devicesddb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Nukazama7
+    ports:
+      - "5434:5432"
+    volumes:
+      - my-db:/var/lib/postgresql/data
+    networks:
+      - backend
+
+  backend_device:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - "8081:8081"
+    environment:
+      - DB_IP=postgres
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=Nukazama7
+      - DB_DBNAME=devicesddb
+    networks:
+      backend:
+        ipv4_address: 172.30.1.2
+    depends_on:
+      - postgres
+
+volumes:
+  my-db:
+
+networks:
+  backend:
+    external: true

@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+
+  react:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        REACT_APP_API_BASE_URL: http://127.0.0.1:3000/
+    ports:
+      - "3000:80"
+    environment:
+      - BACKEND_USER=172.30.1.1
+      - BACKEND_DEVICE=172.30.1.2
+    networks:
+      backend:
+        ipv4_address: 172.30.0.10
+    restart: always
+
+networks:
+  backend:
+    external: true
